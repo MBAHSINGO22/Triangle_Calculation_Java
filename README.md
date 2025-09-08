@@ -2,7 +2,7 @@
 
 ## Sistem Perhitungan Segitiga di Java
 
-Proyek Java yang mengimplementasikan aplikasi konsol untuk menghitung keliling dan luas segitiga berdasarkan koordinat titik-titiknya.
+Proyek Java yang mengimplementasikan aplikasi untuk menghitung keliling dan luas segitiga berdasarkan koordinat titik-titiknya.
 
 ---
 
